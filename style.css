@@ -53,9 +53,8 @@ p {
 }
 main > img {
   width: 200px;
-  transform: scaleX(-1);
   padding-top: 4%;
-  padding-left: 28%;
+  padding-right: 28%;
   float: right;
 }
 section {
