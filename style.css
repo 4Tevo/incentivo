@@ -45,6 +45,7 @@ div {
   float: left;
 }
 p {
+  text-align: justify;
   padding-top: 10px;
   padding-left: 10px;
   max-width: 280px;
